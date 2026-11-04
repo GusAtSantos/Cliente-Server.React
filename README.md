@@ -27,4 +27,4 @@ cd [client-folder]
 npm install
 npm start
 ```
-Create a `.env` file with: `[VARIABLE_NAME=value]`
+
